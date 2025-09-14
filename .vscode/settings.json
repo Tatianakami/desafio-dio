@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d836c2e0-e2c5-49c1-b6cf-233030f5bf31/resourceGroups/dio-rh-rg/providers/Microsoft.Web/sites/diorh-api-kamila-br-130925",
+    "appService.deploySubpath": "trilha-net-azure-desafio"
+}
